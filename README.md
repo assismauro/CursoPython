@@ -15,13 +15,13 @@
 - Vá lendo as instruções, quando achar uma célula de contém código, por exemplo:
 
 ```python
-    import pandas
+import pandas
 
-    from pandas.plotting import scatter_matrix
-    import matplotlib.pyplot as plt
-    import seaborn as sns
-    from sklearn import model_selection
-    from sklearn.metrics import classification_report
+from pandas.plotting import scatter_matrix
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn import model_selection
+from sklearn.metrics import classification_report
 ```
 Selecione-a e aperte \<Shift>+\<Enter>. O código será executado. Observe o sinal **[ ]** à esquerda da célula: durante a execução ele aparecerá como **[*]** e após ele aparecerá como **[n]**, onde **n** é o número da célula em ordem de execução.
 
