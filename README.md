@@ -6,7 +6,7 @@ a) Instale o [Anaconda](https://www.anaconda.com/distribution/)
 
 b) Faça o download dos [dados usados no curso](https://drive.google.com/open?id=15f1t4fGEFA7ZK_N2S_4rse-T-IGg_xjV)
 
-c) Descompacte em um diretório **CursoPyrhon\\Data**
+c) Descompacte em um diretório **CursoPython\\Data**
 
 d) Abra os arquivos [Aula1](https://github.com/assismauro/CursoPython/blob/master/aula1.ipynb), [Aula2](https://github.com/assismauro/CursoPython/blob/master/aula2.ipynb) e [Offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb) e salve-os no diretório **CursoPython\\Aulas** com a extensão **.ypnb**.
 
