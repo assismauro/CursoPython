@@ -10,7 +10,7 @@ c) Descompacte em um diretório **CursoPython\\Data**
 
 d) Abra os arquivos [Aula1](https://github.com/assismauro/CursoPython/blob/master/aula1.ipynb), [Aula2](https://github.com/assismauro/CursoPython/blob/master/aula2.ipynb) e [Offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb) e salve-os no diretório **CursoPython\\Aulas** com a extensão **.ypnb**.
 
-Como fazer: Clique no botão verde **Clone or Download** acima. Selecione a opção **Download ZIP**. Ele vai baixar um arquivo chamado CursoPython-master.zip. Cope esse conteúdo para o diretório **CursoPython\\Aulas**.
+Como fazer: Clique no botão verde **Clone or Download** acima, à direita. Selecione a opção **Download ZIP**. Ele vai baixar um arquivo chamado CursoPython-master.zip. Cope esse conteúdo para o diretório **CursoPython\\Aulas**.
 
 e) Abra o **Anaconda Prompt** (clique no ícone do Windows e pesquise o nome).
 
