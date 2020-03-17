@@ -36,4 +36,4 @@ Espere terminar a execução de uma célula para executar a próxima. Sempre as 
 - [Dados viagens de taxi em NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - [Exercício de "raspagem de dados"](https://github.com/juditecypreste/Scraper-Oscar/blob/master/Scraper%20Oscar.ipynb)
 
-#####**Observação:** O arquivo [offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb) replica o que está escrito acima mas contém outras informações interessantes que devem ser visualizadas no Jupyter.
+**Observação:** O arquivo [offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb) replica o que está escrito acima mas contém outras informações interessantes que devem ser visualizadas no Jupyter.
