@@ -10,7 +10,7 @@
 - Descompacte em um diretório **CursoPyrhon\Data**
 - Abra os arquivos [Aula1](https://github.com/assismauro/CursoPython/blob/master/aula1.ipynb) e [Aula2](https://github.com/assismauro/CursoPython/blob/master/aula2.ipynb) e salve-os no diretório **CursoPython\Aulas** com a extensão **.ypnb**.
 - Abra o **Anaconda Prompt** (clique no ícone do Windows e pesquise o nome).
-- Na janela aberta, digite **cd** <nome completo do diretório CursoPython que vc criou> \<enter>
+- Na janela aberta, digite **cd** <nome completo do diretório CursoPython que vc criou, ex: **c:\CursoPython**> \<enter>
 - Digite  **jupyter lab --notebook-dir .** \<enter>
 
 ##### Outros links interessantes:
