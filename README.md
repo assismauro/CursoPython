@@ -23,7 +23,7 @@
     from sklearn import model_selection
     from sklearn.metrics import classification_report
 
-Selecione-a e aperte /<Shift>+/<Enter>. O código será executado. Observe o sinal **[ ]** à esquerda da célula: durante a execução ele aparecerá como **[*]** e após ele aparecerá como **[n]**, onde **n** é o número da célula em ordem de execução.
+Selecione-a e aperte \<Shift>+\<Enter>. O código será executado. Observe o sinal **[ ]** à esquerda da célula: durante a execução ele aparecerá como **[*]** e após ele aparecerá como **[n]**, onde **n** é o número da célula em ordem de execução.
 
 ##### Outros links interessantes:
 
