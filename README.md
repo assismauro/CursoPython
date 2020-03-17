@@ -1,12 +1,8 @@
 ### Curso de Python do Maurão
-#### Instruções
-
-##### Para fazer esse curso, instale:
-- [Anaconda](https://www.anaconda.com/distribution/)
     
-##### Para seguir oos exercícios do curso:
+##### Instruções para seguir os exercícios do curso:
 
-a) Faça o download dos [dados usados no curso](https://drive.google.com/open?id=15f1t4fGEFA7ZK_N2S_4rse-T-IGg_xjV)
+a) Instale o [Anaconda](https://www.anaconda.com/distribution/)
 
 b) Faça o download dos [dados usados no curso](https://drive.google.com/open?id=15f1t4fGEFA7ZK_N2S_4rse-T-IGg_xjV)
 
