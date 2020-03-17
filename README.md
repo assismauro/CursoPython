@@ -8,7 +8,7 @@
 
 - Faça o download dos [dados usados no curso](https://drive.google.com/open?id=15f1t4fGEFA7ZK_N2S_4rse-T-IGg_xjV)
 - Descompacte em um diretório **CursoPyrhon\Data**
-- Abra os arquivos [Aula1](https://github.com/assismauro/CursoPython/blob/master/aula1.ipynb) e [Aula2](https://github.com/assismauro/CursoPython/blob/master/aula2.ipynb) e salve-os no diretório **CursoPython\Aulas** com a extensão **.ypnb**.
+- Abra os arquivos [offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb), [Aula1](https://github.com/assismauro/CursoPython/blob/master/aula1.ipynb) e [Aula2](https://github.com/assismauro/CursoPython/blob/master/aula2.ipynb) e salve-os no diretório **CursoPython\Aulas** com a extensão **.ypnb**.
 - Abra o **Anaconda Prompt** (clique no ícone do Windows e pesquise o nome).
 - Na janela aberta, digite **cd** <nome completo do diretório CursoPython que vc criou, ex: **c:\CursoPython**> \<enter>
 - Digite  **jupyter lab --notebook-dir .** \<enter>
@@ -35,4 +35,3 @@ Espere terminar a execução de uma célula para executar a próxima. Sempre as 
 - [Exibidor de geoJSON](http://geojson.io/)
 - [Dados viagens de taxi em NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - [Exercício de "raspagem de dados"](https://github.com/juditecypreste/Scraper-Oscar/blob/master/Scraper%20Oscar.ipynb)
-
