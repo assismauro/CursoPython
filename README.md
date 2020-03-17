@@ -1,4 +1,18 @@
-### Curso de Python do Maurão
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Curso de Python do Maurão\n",
+    "#### Aula 1 - Análise de dados com Python\n"
+   ]
+  },
+  {
+     "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+  ### Curso de Python do Maurão
 #### Instruções
 
 ##### Para fazer esse curso, instale:
@@ -33,3 +47,5 @@ Selecione-a e aperte /<Shift>+/<Enter>. O código será executado. Observe o sin
 - [Exibidor de geoJSON](http://geojson.io/)
 - [Dados viagens de taxi em NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - [Exercício de "raspagem de dados"](https://github.com/juditecypreste/Scraper-Oscar/blob/master/Scraper%20Oscar.ipynb)
+   ]
+  }]}
