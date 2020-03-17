@@ -3,12 +3,10 @@
 
 ##### Para fazer esse curso, instale:
 - [Anaconda](https://www.anaconda.com/distribution/)
-
-##### Para seguir oos exercícios do curso:
-
-a) [Anaconda](https://www.anaconda.com/distribution/)
     
 ##### Para seguir oos exercícios do curso:
+
+a) Faça o download dos [dados usados no curso](https://drive.google.com/open?id=15f1t4fGEFA7ZK_N2S_4rse-T-IGg_xjV)
 
 b) Faça o download dos [dados usados no curso](https://drive.google.com/open?id=15f1t4fGEFA7ZK_N2S_4rse-T-IGg_xjV)
 
