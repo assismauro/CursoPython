@@ -6,7 +6,7 @@
 
 ##### Para seguir oos exercícios do curso:
 
-    a) [Anaconda](https://www.anaconda.com/distribution/)
+a) [Anaconda](https://www.anaconda.com/distribution/)
     
 ##### Para seguir oos exercícios do curso:
 
