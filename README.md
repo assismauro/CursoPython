@@ -6,13 +6,22 @@
 
 ##### Para seguir oos exercícios do curso:
 
-- Faça o download dos [dados usados no curso](https://drive.google.com/open?id=15f1t4fGEFA7ZK_N2S_4rse-T-IGg_xjV)
-- Descompacte em um diretório **CursoPyrhon\Data**
-- Abra os arquivos [offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb), [Aula1](https://github.com/assismauro/CursoPython/blob/master/aula1.ipynb) e [Aula2](https://github.com/assismauro/CursoPython/blob/master/aula2.ipynb) e salve-os no diretório **CursoPython\Aulas** com a extensão **.ypnb**.
-- Abra o **Anaconda Prompt** (clique no ícone do Windows e pesquise o nome).
-- Na janela aberta, digite **cd** <nome completo do diretório CursoPython que vc criou, ex: **c:\CursoPython**> \<enter>
-- Digite  **jupyter lab --notebook-dir .** \<enter>
-- Vá lendo as instruções, quando achar uma célula de contém código, por exemplo:
+    a) [Anaconda](https://www.anaconda.com/distribution/)
+    
+    ##### Para seguir oos exercícios do curso:
+    
+    b) Faça o download dos [dados usados no curso](https://drive.google.com/open?id=15f1t4fGEFA7ZK_N2S_4rse-T-IGg_xjV)
+    
+    c) Descompacte em um diretório **CursoPyrhon\\Data**
+    
+    d) Abra os arquivos [Aula1](https://github.com/assismauro/CursoPython/blob/master/aula1.ipynb), [Aula2](https://github.com/assismauro/CursoPython/blob/master/aula2.ipynb) e [Offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb) e salve-os no diretório **CursoPython\\Aulas** com a extensão **.ypnb**.
+    
+    e) Abra o **Anaconda Prompt** (clique no ícone do Windows e pesquise o nome).
+    
+    f) Na janela aberta, digite **cd** <nome completo do diretório CursoPython que vc criou, ex: **c:\\CursoPython**> \\<enter>\n\n
+    g) Digite  **jupyter lab --notebook-dir .** [enter] 
+    
+    h) Vá lendo as instruções, quando achar uma célula de contém código, por exemplo:
 
 ```python
 import pandas
