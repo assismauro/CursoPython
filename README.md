@@ -25,11 +25,13 @@
 ```
 Selecione-a e aperte \<Shift>+\<Enter>. O código será executado. Observe o sinal **[ ]** à esquerda da célula: durante a execução ele aparecerá como **[*]** e após ele aparecerá como **[n]**, onde **n** é o número da célula em ordem de execução.
 
+Espere terminar a execução de uma célula para executar a próxima. Sempre as execute em sequência.
+
 ##### Outros links interessantes:
 
-- [PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
-- [Notepad++](https://notepad-plus-plus.org/repository/7.x/7.0/npp.7.Installer.x64.exe)
-- [GitHub](http://github.com)
+- Editor de programas Python semelhante ao R Studio: [PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
+- Editor de texto que comporta vários formatos: [Notepad++](https://notepad-plus-plus.org/repository/7.x/7.0/npp.7.Installer.x64.exe)
+- Esse site: [GitHub](http://github.com)
 - [Exibidor de geoJSON](http://geojson.io/)
 - [Dados viagens de taxi em NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - [Exercício de "raspagem de dados"](https://github.com/juditecypreste/Scraper-Oscar/blob/master/Scraper%20Oscar.ipynb)
