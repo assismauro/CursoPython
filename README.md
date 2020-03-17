@@ -18,7 +18,8 @@ d) Abra os arquivos [Aula1](https://github.com/assismauro/CursoPython/blob/maste
 
 e) Abra o **Anaconda Prompt** (clique no ícone do Windows e pesquise o nome).
 
-f) Na janela aberta, digite **cd** <nome completo do diretório CursoPython que vc criou, ex: **c:\\CursoPython**> \\<enter>\n\n
+f) Na janela aberta, digite **cd** <nome completo do diretório CursoPython que vc criou, ex: **c:\\CursoPython**> [enter]
+
 g) Digite  **jupyter lab --notebook-dir .** [enter] 
 
 h) Vá lendo as instruções, quando achar uma célula de contém código, por exemplo:
