@@ -1,8 +1,10 @@
 ### Curso de Python do Maurão
     
 ##### Instruções para seguir os exercícios do curso:
+primeiro 
+a) Instale o [Anaconda](https://www.anaconda.com/distribution/). Para isso primeiro faça o download da versão adequada. Se o seu computador é Windows, a versão é a **Python 3.7 version**, clicando no botão verde, **Download**.
 
-a) Instale o [Anaconda](https://www.anaconda.com/distribution/)
+Após o download, também no caso da versão Windows, clique com o botão direito no arquivo baixado e selecione a opção **Executar como administrador**. Siga a instruções do instalador.
 
 b) Faça o download dos [dados usados no curso](https://drive.google.com/open?id=15f1t4fGEFA7ZK_N2S_4rse-T-IGg_xjV)
 
