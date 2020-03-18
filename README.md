@@ -37,13 +37,4 @@ Selecione-a e aperte \<Shift>+\<Enter>. O código será executado. Observe o sin
 
 Espere terminar a execução de uma célula para executar a próxima. Sempre as execute em sequência.
 
-##### Outros links interessantes:
-
-- Editor de programas Python semelhante ao R Studio: [PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
-- Editor de texto que comporta vários formatos: [Notepad++](https://notepad-plus-plus.org/repository/7.x/7.0/npp.7.Installer.x64.exe)
-- Esse site: [GitHub](http://github.com)
-- [Exibidor de geoJSON](http://geojson.io/)
-- [Dados viagens de taxi em NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-- [Exercício de "raspagem de dados"](https://github.com/juditecypreste/Scraper-Oscar/blob/master/Scraper%20Oscar.ipynb)
-
-**Observação:** O arquivo [offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb) replica o que está escrito acima mas contém outras informações interessantes que devem ser visualizadas no Jupyter.
+**Observação:** O arquivo [offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb) contém outras informações interessantes sobre o uso do Python em Data Science.
