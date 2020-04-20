@@ -10,7 +10,7 @@ Após o download, também no caso da versão Windows, clique com o botão direit
 
 **c)** Descompacte em um diretório **CursoPython\\Data**
 
-**d)** Abra os arquivos [Aula1](https://github.com/assismauro/CursoPython/blob/master/aula1.ipynb), [Aula2](https://github.com/assismauro/CursoPython/blob/master/aula2.ipynb) e [Offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb) e salve-os no diretório **CursoPython\\Aulas** com a extensão **.ypnb**.
+**d)** Abra os arquivos [Aula1](https://github.com/assismauro/CursoPython/blob/master/aula1.ipynb), [Aula2](https://github.com/assismauro/CursoPython/blob/master/aula2.ipynb) e [Offtopic](https://github.com/assismauro/CursoPython/blob/master/offtopic.ipynb) e salve-os no diretório **CursoPython\\Aulas** com a extensão **.ipynb**.
 
 Como fazer: Clique [aqui](https://github.com/assismauro/CursoPython/archive/master.zip). Se não der certo, clique no botão verde **Clone or Download** acima, à direita, e em seguida selecione a opção **Download ZIP**. 
 
