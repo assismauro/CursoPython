@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>torres.kml</name>
+	<open>1</open>
+	<Schema name="torres" id="torres">
+		<SimpleField type="float" name="_uid_"></SimpleField>
+		<SimpleField type="int" name="id"></SimpleField>
+	</Schema>
+	<Folder>
+		<name>Torres</name>
+		<open>1</open>
+		<Placemark>
+			<name>Ponto Ferruginoso</name>
+			<ExtendedData>
+				<SchemaData schemaUrl="#torres">
+					<SimpleData name="_uid_">3</SimpleData>
+					<SimpleData name="id">1</SimpleData>
+					<name>Ponto Ferruginoso</name>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-44.0103890429868,-20.0587215782658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Posto 39</name>
+			<ExtendedData>
+				<SchemaData schemaUrl="#torres2">
+					<SimpleData name="_uid_">1</SimpleData>
+					<SimpleData name="id">2</SimpleData>
+					<name>Posto 39</name>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-44.0380102844896,-20.0625244535322,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

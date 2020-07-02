@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>evento.kml</name>
+	<open>1</open>
+	<Folder>
+		<name>Evento de fogo</name>
+		<open>1</open>
+		<Placemark>
+			<name>Evento de Fogo</name>
+			<ExtendedData>
+				<SchemaData schemaUrl="#torres2">
+					<SimpleData name="_uid_">2</SimpleData>
+					<SimpleData name="id">3</SimpleData>
+					<name>Evento de Fogo</name>
+				</SchemaData>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Point>
+				<coordinates>-44.02563873879,-20.0749150225036,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
